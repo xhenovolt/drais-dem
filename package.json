@@ -1,6 +1,6 @@
 {
   "name": "Excel-Islamic-School",
-  "version": "0.0.0036",
+  "version": "0.0.0037",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -52,7 +52,7 @@
     "lucide-react": "^0.541.0",
     "multer": "^2.0.2",
     "mysql2": "^3.14.3",
-    "next": "^15.5.0",
+    "next": "^16.0.6",
     "next-auth": "^4.24.11",
     "next-i18next": "^15.4.2",
     "next-pwa": "^5.6.0",
