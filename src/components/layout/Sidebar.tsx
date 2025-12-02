@@ -398,6 +398,12 @@ const Sidebar: React.FC = () => {
       ]
     },
     {
+      key: 'documentation',
+      label: 'Documentation',
+      icon: <BookOpen className="w-5 h-5" />,
+      href: '/docs'
+    },
+    {
       key: 'help',
       label: t('nav.help'),
       icon: <HelpCircle className="w-5 h-5" />,
