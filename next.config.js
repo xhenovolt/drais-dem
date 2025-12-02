@@ -53,7 +53,7 @@ const nextConfig = {
   },
 
   // Enable static optimization
-  output: 'standalone',
+  // output: 'standalone', // Commented out for Vercel deployment
   
   // Optimize headers for static assets
   async headers() {
